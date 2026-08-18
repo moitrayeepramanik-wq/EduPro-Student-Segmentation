@@ -61,8 +61,8 @@ Open `http://localhost:8501` in your browser.
 
 ---
 
-## ☁️ Deploying to Streamlit Cloud
+## 🔗 Live Application URL
 
-1. Push this repository to **GitHub**.
-2. Visit [share.streamlit.io](https://share.streamlit.io/) and sign in with your GitHub account.
-3. Click **New App**, select your `EduPro` repository, set Main file path to `app.py`, and click **Deploy**!
+You can access the live, deployed web application here:
+👉 **[https://edupro-student-segmentation-12.streamlit.app/](https://edupro-student-segmentation-12.streamlit.app/)**
+
